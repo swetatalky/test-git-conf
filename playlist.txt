@@ -1,15 +1,10 @@
 song-artist
-========
 fba
-<<<<<<< HEAD
---oldies
 ftg
 ftg
 ftg new 3456
 hdjdhask
 dtydyty
-=======
---oldies
 opioii
 heihfuerf
 ryutitiunew
